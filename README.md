@@ -1,0 +1,1 @@
+# linq_safety_guard
